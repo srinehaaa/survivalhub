@@ -280,7 +280,7 @@ Each student's records are associated with their authenticated user ID, ensuring
 
 ---
 
-## 🔄 Application Flow
+##  Application Flow
 
 ```text
                     ┌──────────────────┐
@@ -320,7 +320,7 @@ Each student's records are associated with their authenticated user ID, ensuring
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -368,7 +368,7 @@ The application will be available through the local Vite development server.
 
 ---
 
-## 🧪 Available Scripts
+## Available Scripts
 
 ### Start development server
 
