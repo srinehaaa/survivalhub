@@ -402,7 +402,7 @@ npm run preview
 
 ---
 
-## 🔐 Security
+## Security
 
 The project uses several security mechanisms:
 
@@ -415,7 +415,7 @@ The project uses several security mechanisms:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 College students often manage different aspects of their academic and personal lives using separate applications.
 
@@ -434,7 +434,7 @@ Student Survival Hub brings these tasks together and provides priority-based ass
 
 ---
 
-## 💡 Solution
+## Solution
 
 Student Survival Hub acts as a **personal college management system**.
 
@@ -448,22 +448,22 @@ The **Panic Mode** feature goes one step further by converting urgent tasks into
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential future improvements include:
 
-* 🤖 AI-powered study planning
-* 📈 Academic performance analytics
-* 🔔 Assignment and exam notifications
-* 📱 Progressive Web App / mobile support
-* 📊 Advanced expense analytics
-* 🧠 Personalized study recommendations
-* 📅 Calendar integration
-* 📄 Automatic timetable import
-* 🔗 Integration with college portals
-* 🌙 Dark mode
-* 📧 Email reminders
-* 🤖 AI chatbot for student assistance
+*  AI-powered study planning
+*  Academic performance analytics
+*  Assignment and exam notifications
+*  Progressive Web App / mobile support
+*  Advanced expense analytics
+*  Personalized study recommendations
+*  Calendar integration
+*  Automatic timetable import
+*  Integration with college portals
+*  Dark mode
+*  Email reminders
+* AI chatbot for student assistance
 
 ---
 
