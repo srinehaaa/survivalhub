@@ -1,4 +1,4 @@
-# 🎓 Student Survival Hub
+#  Student Survival Hub
 
 > **One dashboard. Everything a student needs to survive college.**
 
@@ -8,9 +8,9 @@ Instead of switching between multiple apps and spreadsheets, students can manage
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📊 Dashboard
+### Dashboard
 
 A centralized overview of important student information, including:
 
@@ -23,7 +23,7 @@ A centralized overview of important student information, including:
 
 ---
 
-### 📝 Assignment Management
+### Assignment Management
 
 Track and manage assignments efficiently.
 
@@ -47,7 +47,7 @@ Assignment status is tracked as:
 
 ---
 
-### 📅 Attendance Tracker
+### Attendance Tracker
 
 Monitor attendance for every subject.
 
@@ -66,7 +66,7 @@ This helps students make informed decisions about their attendance instead of ma
 
 ---
 
-### 📚 Exam & Preparation Tracker
+###  Exam & Preparation Tracker
 
 Keep track of upcoming examinations and preparation progress.
 
@@ -85,7 +85,7 @@ Keep track of upcoming examinations and preparation progress.
 
 ---
 
-### 🗓️ Timetable
+###  Timetable
 
 Manage the weekly college schedule.
 
@@ -102,7 +102,7 @@ Manage the weekly college schedule.
 
 ---
 
-### 💰 Money Tracker
+###  Money Tracker
 
 Track student expenses and monthly budgets.
 
@@ -119,15 +119,15 @@ Track student expenses and monthly budgets.
 
 Expense categories include:
 
-* 🍴 Food
-* 🚌 Travel
-* 🛍️ Shopping
-* 🎬 Entertainment
-* 📦 Other
+*  Food
+*  Travel
+*  Shopping
+*  Entertainment
+*  Other
 
 ---
 
-### 🚨 Panic Mode
+###  Panic Mode
 
 One of the core features of Student Survival Hub.
 
@@ -135,10 +135,10 @@ When a student has multiple urgent tasks and limited time, **Panic Mode** genera
 
 The student can select:
 
-* ⏱️ 1 Hour
-* ⏱️ 2 Hours
-* ⏱️ 3 Hours
-* ⏱️ 4 Hours
+*  1 Hour
+*  2 Hours
+*  3 Hours
+*  4 Hours
 
 The system then creates a survival schedule containing focused work blocks and breaks.
 
@@ -146,7 +146,7 @@ This helps convert an overwhelming task list into an actionable short-term plan.
 
 ---
 
-### 🔐 Authentication & Personal Profiles
+### Authentication & Personal Profiles
 
 The application supports individual student accounts using Supabase Authentication.
 
@@ -165,7 +165,7 @@ Each student's data is isolated from other users.
 
 ---
 
-## 🧠 Priority-Based Task Management
+## Priority-Based Task Management
 
 Student Survival Hub includes a priority system that considers information such as:
 
@@ -180,7 +180,7 @@ The resulting priority information is also used by **Panic Mode** to generate a 
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -206,7 +206,7 @@ The resulting priority information is also used by **Panic Mode** to generate a 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Student-Survival-Hub/
@@ -256,7 +256,7 @@ Student-Survival-Hub/
 
 ---
 
-## 🗄️ Database Architecture
+## Database Architecture
 
 The application uses Supabase/PostgreSQL with separate tables for different areas of student life.
 
@@ -272,7 +272,7 @@ The application uses Supabase/PostgreSQL with separate tables for different area
 | `timetable_classes` | Weekly timetable                |
 | `expenses`          | Expense tracking                |
 
-### 🔒 Row Level Security
+###  Row Level Security
 
 Row Level Security is enabled across the application's data tables.
 
